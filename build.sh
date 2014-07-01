@@ -8,7 +8,7 @@ set -x
 
 # Setup paths to stuff we need
 
-OPENSSL_VERSION="1.0.1g"
+OPENSSL_VERSION="1.0.1h"
 
 DEVELOPER="/Applications/Xcode.app/Contents/Developer"
 
@@ -111,4 +111,3 @@ lipo \
 
 rm -rf "/tmp/openssl-${OPENSSL_VERSION}-*"
 rm -rf "/tmp/openssl-${OPENSSL_VERSION}-*.*-log"
-

@@ -52,8 +52,7 @@ own convenience. But you should really not trust me and do two things:
 
  1) Verify that the openssl-1.0.1g.tar.gz file is authentic by comparing it's SHA1
     hash to the one found on http://www.openssl.org/source/ You can do this with
-    the 'openssl sha1 openssl-1.0.1g.tar.gz' command.
+    the 'openssl sha1 openssl-1.0.1h.tar.gz' command.
  2) Compile your own version of the library as explained above
 
 Enjoy :-)
-
